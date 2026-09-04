@@ -1,0 +1,9 @@
+# Material for Mizoram 3D Terrain
+newmtl Mizoram_District_Material
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 10.0
+d 1.0
+illum 2
+map_Kd mizoram_district_texture.png

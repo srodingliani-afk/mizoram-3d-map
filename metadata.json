@@ -1,0 +1,6 @@
+{
+  "name": "Mizoram 3D Terrain & District Model Generator",
+  "description": "Generate and export 3D terrain models of Mizoram with real-world topographic elevation and baked district boundaries for Godot Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
